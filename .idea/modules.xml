@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MouseBus.iml" filepath="$PROJECT_DIR$/MouseBus.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MouseBusTest/MouseBusTest.iml" filepath="$PROJECT_DIR$/MouseBusTest/MouseBusTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mousebuslib/mousebuslib.iml" filepath="$PROJECT_DIR$/mousebuslib/mousebuslib.iml" />
+    </modules>
+  </component>
+</project>
